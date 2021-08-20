@@ -1,5 +1,5 @@
 # Music Generation with Transformers*
-* in progress
+*in progress
 ## Training without preprocessing MIDI files
 1st training loss - 5.67 <br/>
 2nd training loss - 3.61 <br/>
