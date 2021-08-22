@@ -6,6 +6,5 @@
 3rd training loss - ~8 <br/>
 4th training loss - 4.67 <br/>
 5th training loss - 3.61 <br/>
-5th training loss - 3.81 <br/>
 
 
