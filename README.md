@@ -1,5 +1,7 @@
 # Music Generation with Transformers*
 *in progress
+## MIDI Processing
+Using MidiTok
 ## Training without preprocessing MIDI files
 training loss - 3.61 <br/>
 training loss - 1.87 (blues songs) <br/>
